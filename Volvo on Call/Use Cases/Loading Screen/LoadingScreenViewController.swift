@@ -31,7 +31,7 @@ class LoadingScreenViewController: BaseViewController {
     
     // MARK: - Setup
     private func setupView() {
-        self.view.backgroundColor = UIColor.white
+        self.view.backgroundColor = UIColor.systemBackground
         
         // Animated Image View
         let animatedImageView = HeartBeatAnimatedImageView.init(frame: .zero)
