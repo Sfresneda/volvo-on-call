@@ -13,7 +13,10 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
-        guard let _ = (scene as? UIWindowScene) else { return }
+        guard let wrappedScene = (scene as? UIWindowScene) else { return }
+        self.window = UIWindow.init(windowScene: wrappedScene)
+        self.window?.rootViewController = LoadingScreenViewController.init()
+        self.window?.makeKeyAndVisible()
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

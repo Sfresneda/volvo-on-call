@@ -1,0 +1,2023 @@
+{
+  "data": {
+    "model": {
+      "title": "V60",
+      "isCareByVolvo": false,
+      "isRecharge": true,
+      "enableUncertifiedDataDisclaimer": false,
+      "carModelYear": "2021",
+      "carCurrencyCode": "EUR",
+      "slug": "v60",
+      "__typename": "Model"
+    },
+    "trimGroups": [
+      {
+        "slug": "r-design",
+        "title": "R-Design",
+        "description": "El rendimiento donde debe estar: en tus manos.",
+        "label": "DEPORTIVO",
+        "pno3": "225",
+        "gallery": {
+          "thumbnail": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=103&bg=fafafa&w=375&fallback=1",
+          "images": [
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=100&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=103&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=106&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=105&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/drivers-view-v2/R5/D/RGAR00/NC04/DI09/RU09/_/_/KB02/NP02/CQ02/_/K502/FH01/CB03/_/Default.jpg?market=es&client=vbsgw&Angle=100&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/rear-view-v3/R5/RGAR00/NC04/NP02/CQ02/_/FH01/CB03/_/Default.jpg?market=es&client=vbsgw&Angle=100&bg=fafafa",
+              "__typename": "GalleryItem"
+            }
+          ],
+          "__typename": "Gallery"
+        },
+        "trims": [
+          {
+            "carVersionId": "520335484",
+            "title": "Recharge R-Design ",
+            "image": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=ffffff",
+            "salesVersion": "R5",
+            "careByVolvoSubscription": false,
+            "slug": "recharge-r-design",
+            "description": "Diseño dinámico y lujo responsable.",
+            "seats": 5,
+            "filters": [
+              "recharge"
+            ],
+            "pno3": "225",
+            "uniqueFeatureList": [],
+            "upgradeFeatures": [],
+            "imageGalleryCarouselImages": [
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=3&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/R5/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=2&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/interior-v2/R5/D/RGAR00/NC04/DI09/RU09/_/_/KB02/NP02/CQ02/_/K502/FH01/CB03/_/Default.jpg?market=es&client=vbsgw&bg=fafafa",
+                "type": "pannable",
+                "__typename": "CarouselImage"
+              }
+            ],
+            "standardFeatures": [
+              {
+                "name": "Seguridad",
+                "featureCodes": [
+                  "0028",
+                  "EO02",
+                  "0008",
+                  "RL02",
+                  "FT02",
+                  "RO02",
+                  "0007",
+                  "FR02",
+                  "0074",
+                  "RD02",
+                  "0049",
+                  "KJ03",
+                  "RS02",
+                  "T601",
+                  "EJ02",
+                  "0072",
+                  "LA02",
+                  "0068",
+                  "G402",
+                  "RG08",
+                  "KU02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Confort",
+                "featureCodes": [
+                  "L702",
+                  "VP02",
+                  "KG02",
+                  "NI02",
+                  "ED01",
+                  "KR02",
+                  "0084",
+                  "RZ02",
+                  "CQ02",
+                  "NV02",
+                  "NR03",
+                  "NJ01",
+                  "0085",
+                  "0083",
+                  "MC02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Audio",
+                "featureCodes": [
+                  "VB02",
+                  "8G04",
+                  "K502",
+                  "0088",
+                  "KK03"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Interior",
+                "featureCodes": [
+                  "KB02",
+                  "PD02",
+                  "NF02",
+                  "N502",
+                  "PN03",
+                  "DD02",
+                  "8H03",
+                  "PU02",
+                  "NG11",
+                  "NY03",
+                  "FH01",
+                  "FJ02",
+                  "NC04",
+                  "PB02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Exterior",
+                "featureCodes": [
+                  "TJ02",
+                  "JB0A",
+                  "GR02",
+                  "R130",
+                  "TB05",
+                  "LF05",
+                  "K702",
+                  "TM04",
+                  "TC06",
+                  "TP05",
+                  "SR02",
+                  "G301"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Otros",
+                "featureCodes": [
+                  "RA03",
+                  "G602",
+                  "R603",
+                  "0087",
+                  "G101",
+                  "TS02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Equipamiento de serie",
+                "featureCodes": [
+                  "L103",
+                  "TL0A",
+                  "PI03",
+                  "MA02",
+                  "KD12",
+                  "GG0C",
+                  "R412",
+                  "DI09"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              }
+            ],
+            "trimFeaturesChecklist": [
+              {
+                "description": "Llantas de aleación de 18\" 5 de radios dobles Negro mate corte diamante",
+                "included": true,
+                "featureCode": "R1**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tapicería Parcial cuero / Open Grid",
+                "included": true,
+                "featureCode": "NG**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Inserciones interiores de aluminio 'Metal Mesh'",
+                "included": true,
+                "featureCode": "NC**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tubos de escape dobles integrados",
+                "included": true,
+                "featureCode": "SR**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Asistencia mantenimiento de carril",
+                "included": true,
+                "featureCode": "FT0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Panel instrumentos digital 12,3\"",
+                "included": true,
+                "featureCode": "KB0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Chasis Dinámico",
+                "included": true,
+                "featureCode": "RA**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Sistema de sonido Alto Rendimiento con USB y pantalla táctil en color de 9\"",
+                "included": true,
+                "featureCode": "K50*",
+                "__typename": "TrimFeaturesChecklistItem"
+              }
+            ],
+            "enginesFilterData": [
+              {
+                "name": "fuelType",
+                "filters": [
+                  {
+                    "slug": "plug-in-hybrid",
+                    "name": "Híbrido",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "gearboxType",
+                "filters": [
+                  {
+                    "slug": "automático",
+                    "name": "Automático",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "driveType",
+                "filters": [
+                  {
+                    "slug": "awd",
+                    "name": "AWD",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              }
+            ],
+            "engines": [
+              {
+                "slug": "t6-twin-automática-8-velocidades",
+                "title": "T6 Twin Automática 8 velocidades",
+                "carDrivelineId": "520335264",
+                "co2Emission": "36",
+                "engineCode": "BF",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "186 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "253 + 87",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,5",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              },
+              {
+                "slug": "t8-twin-fwd-automática-8-velocidades",
+                "title": "T8 Twin FWD Automática 8 velocidades",
+                "carDrivelineId": "520335265",
+                "co2Emission": "36 ",
+                "engineCode": "BM",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "223 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "303 + 87 ",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,6",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36 ",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              }
+            ],
+            "__typename": "Trim"
+          },
+          {
+            "carVersionId": "520335485",
+            "title": "Recharge R-Design Expression",
+            "image": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/1B/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=ffffff",
+            "salesVersion": "1B",
+            "careByVolvoSubscription": false,
+            "slug": "recharge-r-design-expression",
+            "description": "La esencia del diseño dinámico y el lujo responsable.",
+            "seats": 5,
+            "filters": [
+              "recharge"
+            ],
+            "pno3": "225",
+            "uniqueFeatureList": [],
+            "upgradeFeatures": [
+              {
+                "name": "Ajuste lumbar eléctrico asientos delanteros 2 modos",
+                "description": "El soporte lumbar bidireccional eléctrico para los asientos delanteros contribuye a que te sientas cómodo en las distancias largas. Puede ajustarse horizontalmente para que te resulte más fácil adaptar el soporte a tus preferencias.",
+                "image": "https://esd.volvocars.com/imageweb/9adf91f6-d525-4673-84e8-4a45bc3693a4.jpg",
+                "videoMp42": null,
+                "featureCode": "NV03",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Regulación eléctrica altura asiento conductor",
+                "description": "Gracias al asiento completamente ajustable podrás, por ejemplo, ajustar la altura y el ángulo de la almohadilla del asiento para adaptarla a la perfección y proporcionar un soporte completo por debajo de los muslos. Los amplios ajustes del asiento adelante y atrás te ayudan a conseguir una posición ideal para la conducción, independientemente de tu altura. Para garantizar un correcto apoyo de la espalda, el soporte lumbar de cada asiento delantero es regulable.",
+                "image": "https://esd.volvocars.com/imageweb/8bb6ff2d-4cfd-4257-9162-3dd8a98daaad.jpg",
+                "videoMp42": null,
+                "featureCode": "NI01",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Iluminación interior nivel medio",
+                "description": "La iluminación interior es importante para tu confort dentro de tu Volvo. La iluminación de nivel medio consta de la iluminación ambiental de los asientos delanteros, la del hueco de los pies, la iluminación de almacenamiento trasera central, las luces de los espejos de cortesía y las luces adicionales del compartimento de carga.",
+                "image": "https://esd.volvocars.com/imageweb/d208f52f-c8b1-44a8-9fc6-ebadb88e390a.jpg",
+                "videoMp42": null,
+                "featureCode": "PD03",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Volante de cuero de 3 radios",
+                "description": "Volante forrado de cuero gris oscuro cosido a mano. La moldura Uni-deco añade un bastidor satinado a los radios y la perilla de la rueda. Las puntadas distintivas en zigzag se suman a la apariencia de fino acabado artesanal.",
+                "image": "https://esd.volvocars.com/imageweb/76e58ba4-e49e-4d34-851f-3279fb7e8b78.jpg",
+                "videoMp42": null,
+                "featureCode": "RU05",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Reposabrazos delantero con portavasos",
+                "description": "Convenientemente plegado desde el respaldo trasero, el reposabrazos central permite una total comodidad en las largas distancias, y además tiene espacio para bebidas.",
+                "image": "https://esd.volvocars.com/imageweb/a60e8259-0b7c-410c-a426-fdecf6399693.jpg",
+                "videoMp42": null,
+                "featureCode": "N501",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Asientos Confort",
+                "description": "Nuestros asientos Comfort elevan el listón del estilo y la comodidad, combinando las mejores soluciones ergonómicas de Volvo con un diseño escandinavo de vanguardia. Con sus innumerables posibilidades de ajuste, los asientos delanteros pueden adaptarse con facilidad al cuerpo del ocupante. La altura de los asientos puede ajustarse fácilmente mediante un mando eléctrico. Y para aumentar aún más el confort, los asientos pueden complementarse con un sistema eléctrico de ajuste de seis posiciones con función de memorización, soporte lumbar eléctrico multidireccional y calefacción del asiento. Los asientos Comfort en cuero de napa fino perforado, además, destacan por sus completas opciones de ajuste eléctrico, como los soportes laterales eléctricos y las extensiones de las almohadillas eléctricas, la ventilación en la almohadilla y el respaldo, y una función de masaje ajustable en el respaldo.",
+                "image": "https://esd.volvocars.com/imageweb/4fe749b9-8a11-4685-a61b-5b68d981822d.jpg",
+                "videoMp42": null,
+                "featureCode": "8H01",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Tapicería Textil",
+                "description": "Se trata de un paño tejido fino que resulta cómodo en cualquier condición climatológica y temperatura. Práctico y resistente al desgaste, es perfecto para las actividades cotidianas.\n\nTapicería: Gris oscuro\nInterior: Gris oscuro\nTapizado del techo: Blond",
+                "image": "https://esd.volvocars.com/imageweb/e480a6a9-58ea-4c50-ab9c-df3443ef095a.jpg",
+                "videoMp42": null,
+                "featureCode": "NG01",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Alfombrillas textiles",
+                "description": "Elegantes, prácticas y específicamente diseñadas para adaptarse al diseño del interior de tu vehículo, estas alfombrillas de tela de fácil colocación añaden aún más sensación de confort a tu Volvo. Y para mantener el interior en buenas condiciones, son especialmente eficaces para proteger al vehículo de la suciedad, formando un sello hermético en el piso. Además, son fáciles de quitar para limpiarlas.",
+                "image": "https://esd.volvocars.com/imageweb/f35e56cb-0089-4f3f-93f6-7db3f5038963.jpg",
+                "videoMp42": null,
+                "featureCode": "NY02",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Color interior de techo Blond",
+                "description": "El tapizado del techo Blond realza la sensación de espacio del interior de tu Volvo. Este es el tapizado de serie en todas las tapicerías Blond y Blond/Charcoal.",
+                "image": "https://esd.volvocars.com/imageweb/da876817-9f32-4057-b2e6-2d48546fdf2e.jpg",
+                "videoMp42": null,
+                "featureCode": "FH02",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Color interior de techo estándar",
+                "description": null,
+                "image": null,
+                "videoMp42": null,
+                "featureCode": "FJ01",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Inserciones interiores 'Iron Ore'",
+                "description": "Aluminio gris oscuro de grano vertical inspirado en el mineral de hierro que originó la revolución industrial de Suecia.",
+                "image": "https://esd.volvocars.com/imageweb/022585ea-a032-4055-ae1c-66e62fc312b2.jpg",
+                "videoMp42": null,
+                "featureCode": "NC0A",
+                "__typename": "StandardFeature"
+              }
+            ],
+            "imageGalleryCarouselImages": [
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/1B/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/1B/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=3&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/1B/01900/R130/TP05/_/TM04/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=2&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/interior-v2/1B/D/R10000/NC0A/DI0A/RU05/_/_/KB02/NP02/CQ02/_/K502/FH02/CB03/_/Default.jpg?market=es&client=vbsgw&bg=fafafa",
+                "type": "pannable",
+                "__typename": "CarouselImage"
+              }
+            ],
+            "standardFeatures": [
+              {
+                "name": "Seguridad",
+                "featureCodes": [
+                  "0028",
+                  "EO02",
+                  "0008",
+                  "RL02",
+                  "FT02",
+                  "RO02",
+                  "0007",
+                  "FR02",
+                  "0074",
+                  "RD02",
+                  "0049",
+                  "KJ03",
+                  "RS02",
+                  "T601",
+                  "EJ02",
+                  "0072",
+                  "LA02",
+                  "0068",
+                  "G402",
+                  "RG08",
+                  "KU02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Confort",
+                "featureCodes": [
+                  "L702",
+                  "VP02",
+                  "KG02",
+                  "ED01",
+                  "KR02",
+                  "0084",
+                  "RZ02",
+                  "CQ02",
+                  "NV03",
+                  "NR03",
+                  "NI01",
+                  "NJ01",
+                  "0085",
+                  "0083",
+                  "MC02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Audio",
+                "featureCodes": [
+                  "VB02",
+                  "8G04",
+                  "K502",
+                  "0088",
+                  "KK03"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Interior",
+                "featureCodes": [
+                  "KB02",
+                  "PD03",
+                  "RU05",
+                  "NF02",
+                  "N501",
+                  "PN03",
+                  "8H01",
+                  "NG01",
+                  "NY02",
+                  "FH02",
+                  "FJ01",
+                  "NC0A",
+                  "PB02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Exterior",
+                "featureCodes": [
+                  "TJ02",
+                  "JB0A",
+                  "GR02",
+                  "R130",
+                  "TB05",
+                  "LF05",
+                  "K702",
+                  "TM04",
+                  "TC06",
+                  "TP05",
+                  "SR02",
+                  "G301"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Otros",
+                "featureCodes": [
+                  "RA03",
+                  "G602",
+                  "R603",
+                  "0087",
+                  "G101",
+                  "TS02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Equipamiento de serie",
+                "featureCodes": [
+                  "L103",
+                  "TL0A",
+                  "PI03",
+                  "MA02",
+                  "KD12",
+                  "GG0C",
+                  "R412"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              }
+            ],
+            "trimFeaturesChecklist": [
+              {
+                "description": "Llantas de aleación de 18\" 5 de radios dobles Negro mate corte diamante",
+                "included": true,
+                "featureCode": "R1**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tapicería Textil",
+                "included": true,
+                "featureCode": "NG**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Inserciones interiores 'Iron Ore'",
+                "included": true,
+                "featureCode": "NC**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tubos de escape dobles integrados",
+                "included": true,
+                "featureCode": "SR**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Asistencia mantenimiento de carril",
+                "included": true,
+                "featureCode": "FT0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Panel instrumentos digital 12,3\"",
+                "included": true,
+                "featureCode": "KB0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Chasis Dinámico",
+                "included": true,
+                "featureCode": "RA**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Sistema de sonido Alto Rendimiento con USB y pantalla táctil en color de 9\"",
+                "included": true,
+                "featureCode": "K50*",
+                "__typename": "TrimFeaturesChecklistItem"
+              }
+            ],
+            "enginesFilterData": [
+              {
+                "name": "fuelType",
+                "filters": [
+                  {
+                    "slug": "plug-in-hybrid",
+                    "name": "Híbrido",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "gearboxType",
+                "filters": [
+                  {
+                    "slug": "automático",
+                    "name": "Automático",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "driveType",
+                "filters": [
+                  {
+                    "slug": "awd",
+                    "name": "AWD",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              }
+            ],
+            "engines": [
+              {
+                "slug": "t6-twin-automática-8-velocidades",
+                "title": "T6 Twin Automática 8 velocidades",
+                "carDrivelineId": "520335264",
+                "co2Emission": "36",
+                "engineCode": "BF",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "186 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "253 + 87",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,5",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              },
+              {
+                "slug": "t8-twin-fwd-automática-8-velocidades",
+                "title": "T8 Twin FWD Automática 8 velocidades",
+                "carDrivelineId": "520335265",
+                "co2Emission": "36 ",
+                "engineCode": "BM",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "223 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "303 + 87 ",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,6",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36 ",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              }
+            ],
+            "__typename": "Trim"
+          }
+        ],
+        "__typename": "TrimGroup"
+      },
+      {
+        "slug": "inscription",
+        "title": "Inscription",
+        "description": "Hemos creado el V60 Inscription para satisfacer todas tus expectativas sobre el lujo sueco.",
+        "label": "LUJO",
+        "pno3": "225",
+        "gallery": {
+          "thumbnail": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=106&bg=fafafa&w=375&fallback=1",
+          "images": [
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=100&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=103&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=106&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=105&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/drivers-view-v2/13/D/UA0000/NC0C/DI01/RU02/_/_/KB02/NP02/CQ02/_/K502/FH02/CB03/_/Default.jpg?market=es&client=vbsgw&Angle=100&bg=fafafa",
+              "__typename": "GalleryItem"
+            },
+            {
+              "src": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/rear-view-v3/13/UA0000/NC0C/NP02/CQ02/_/FH02/CB03/_/Default.jpg?market=es&client=vbsgw&Angle=100&bg=fafafa",
+              "__typename": "GalleryItem"
+            }
+          ],
+          "__typename": "Gallery"
+        },
+        "trims": [
+          {
+            "carVersionId": "520335482",
+            "title": "Recharge Inscription",
+            "image": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=ffffff",
+            "salesVersion": "13",
+            "careByVolvoSubscription": false,
+            "slug": "recharge-inscription",
+            "description": "Elegancia refinada y lujo responsable.",
+            "seats": 5,
+            "filters": [
+              "recharge"
+            ],
+            "pno3": "225",
+            "uniqueFeatureList": [],
+            "upgradeFeatures": [],
+            "imageGalleryCarouselImages": [
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=3&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/13/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=2&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/interior-v2/13/D/UA0000/NC0C/DI01/RU02/_/_/KB02/NP02/CQ02/_/K502/FH02/CB03/_/Default.jpg?market=es&client=vbsgw&bg=fafafa",
+                "type": "pannable",
+                "__typename": "CarouselImage"
+              }
+            ],
+            "standardFeatures": [
+              {
+                "name": "Seguridad",
+                "featureCodes": [
+                  "0028",
+                  "EO02",
+                  "0008",
+                  "RL02",
+                  "FT02",
+                  "RO02",
+                  "0007",
+                  "FR02",
+                  "0074",
+                  "RD02",
+                  "0049",
+                  "KJ03",
+                  "RS02",
+                  "T601",
+                  "EJ02",
+                  "0072",
+                  "LA02",
+                  "0068",
+                  "G402",
+                  "RG08",
+                  "KU02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Confort",
+                "featureCodes": [
+                  "L702",
+                  "VP02",
+                  "KG02",
+                  "NI02",
+                  "ED01",
+                  "KR02",
+                  "0084",
+                  "RZ02",
+                  "CQ02",
+                  "NV02",
+                  "NR03",
+                  "NJ01",
+                  "0085",
+                  "0083",
+                  "MC02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Audio",
+                "featureCodes": [
+                  "VB02",
+                  "8G04",
+                  "K502",
+                  "0088",
+                  "KK03"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Interior",
+                "featureCodes": [
+                  "KB02",
+                  "PD02",
+                  "RU02",
+                  "NF02",
+                  "N502",
+                  "DI01",
+                  "PN03",
+                  "8H01",
+                  "PU02",
+                  "NG02",
+                  "NY02",
+                  "FH02",
+                  "FJ01",
+                  "NC0C",
+                  "PB02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Exterior",
+                "featureCodes": [
+                  "TJ01",
+                  "JB0A",
+                  "GR03",
+                  "R12F",
+                  "TB05",
+                  "LF01",
+                  "K702",
+                  "TM02",
+                  "TC06",
+                  "TP02",
+                  "SR02",
+                  "G301"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Otros",
+                "featureCodes": [
+                  "RA03",
+                  "G602",
+                  "R603",
+                  "0087",
+                  "G101",
+                  "TS02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Equipamiento de serie",
+                "featureCodes": [
+                  "L103",
+                  "TL0A",
+                  "PI03",
+                  "MA02",
+                  "KD12",
+                  "GG0C",
+                  "R412"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              }
+            ],
+            "trimFeaturesChecklist": [
+              {
+                "description": "Llantas de aleación de 18\" de 10 radios Negro corte diamante",
+                "included": true,
+                "featureCode": "R1**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tapicería Parcial Cuero",
+                "included": true,
+                "featureCode": "NG**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Inserciones interiores 'Drift wood'",
+                "included": true,
+                "featureCode": "NC**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tubos de escape dobles integrados",
+                "included": true,
+                "featureCode": "SR**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Asistencia mantenimiento de carril",
+                "included": true,
+                "featureCode": "FT0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Panel instrumentos digital 12,3\"",
+                "included": true,
+                "featureCode": "KB0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Chasis Dinámico",
+                "included": true,
+                "featureCode": "RA**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Sistema de sonido Alto Rendimiento con USB y pantalla táctil en color de 9\"",
+                "included": true,
+                "featureCode": "K50*",
+                "__typename": "TrimFeaturesChecklistItem"
+              }
+            ],
+            "enginesFilterData": [
+              {
+                "name": "fuelType",
+                "filters": [
+                  {
+                    "slug": "plug-in-hybrid",
+                    "name": "Híbrido",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "gearboxType",
+                "filters": [
+                  {
+                    "slug": "automático",
+                    "name": "Automático",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "driveType",
+                "filters": [
+                  {
+                    "slug": "awd",
+                    "name": "AWD",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              }
+            ],
+            "engines": [
+              {
+                "slug": "t6-twin-automática-8-velocidades",
+                "title": "T6 Twin Automática 8 velocidades",
+                "carDrivelineId": "520335264",
+                "co2Emission": "36",
+                "engineCode": "BF",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "186 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "253 + 87",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,5",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              },
+              {
+                "slug": "t8-twin-fwd-automática-8-velocidades",
+                "title": "T8 Twin FWD Automática 8 velocidades",
+                "carDrivelineId": "520335265",
+                "co2Emission": "36 ",
+                "engineCode": "BM",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "223 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "303 + 87 ",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,6",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36 ",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              }
+            ],
+            "__typename": "Trim"
+          },
+          {
+            "carVersionId": "520335481",
+            "title": "Recharge Inscription Expression",
+            "image": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/12/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=ffffff",
+            "salesVersion": "12",
+            "careByVolvoSubscription": false,
+            "slug": "recharge-inscription-expression",
+            "description": "La esencia de la elegancia refinada y el lujo responsable.",
+            "seats": 5,
+            "filters": [
+              "recharge"
+            ],
+            "pno3": "225",
+            "uniqueFeatureList": [],
+            "upgradeFeatures": [
+              {
+                "name": "Ajuste lumbar eléctrico asientos delanteros 2 modos",
+                "description": "El soporte lumbar bidireccional eléctrico para los asientos delanteros contribuye a que te sientas cómodo en las distancias largas. Puede ajustarse horizontalmente para que te resulte más fácil adaptar el soporte a tus preferencias.",
+                "image": "https://esd.volvocars.com/imageweb/9adf91f6-d525-4673-84e8-4a45bc3693a4.jpg",
+                "videoMp42": null,
+                "featureCode": "NV03",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Regulación eléctrica altura asiento conductor",
+                "description": "Gracias al asiento completamente ajustable podrás, por ejemplo, ajustar la altura y el ángulo de la almohadilla del asiento para adaptarla a la perfección y proporcionar un soporte completo por debajo de los muslos. Los amplios ajustes del asiento adelante y atrás te ayudan a conseguir una posición ideal para la conducción, independientemente de tu altura. Para garantizar un correcto apoyo de la espalda, el soporte lumbar de cada asiento delantero es regulable.",
+                "image": "https://esd.volvocars.com/imageweb/8bb6ff2d-4cfd-4257-9162-3dd8a98daaad.jpg",
+                "videoMp42": null,
+                "featureCode": "NI01",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Iluminación interior nivel medio",
+                "description": "La iluminación interior es importante para tu confort dentro de tu Volvo. La iluminación de nivel medio consta de la iluminación ambiental de los asientos delanteros, la del hueco de los pies, la iluminación de almacenamiento trasera central, las luces de los espejos de cortesía y las luces adicionales del compartimento de carga.",
+                "image": "https://esd.volvocars.com/imageweb/d208f52f-c8b1-44a8-9fc6-ebadb88e390a.jpg",
+                "videoMp42": null,
+                "featureCode": "PD03",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Volante de cuero de 3 radios",
+                "description": "Volante forrado de cuero gris oscuro cosido a mano. La moldura Uni-deco añade un bastidor satinado a los radios y la perilla de la rueda. Las puntadas distintivas en zigzag se suman a la apariencia de fino acabado artesanal.",
+                "image": "https://esd.volvocars.com/imageweb/76e58ba4-e49e-4d34-851f-3279fb7e8b78.jpg",
+                "videoMp42": null,
+                "featureCode": "RU05",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Reposabrazos delantero con portavasos",
+                "description": "Convenientemente plegado desde el respaldo trasero, el reposabrazos central permite una total comodidad en las largas distancias, y además tiene espacio para bebidas.",
+                "image": "https://esd.volvocars.com/imageweb/a60e8259-0b7c-410c-a426-fdecf6399693.jpg",
+                "videoMp42": null,
+                "featureCode": "N501",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Tapicería Textil",
+                "description": "Se trata de un paño tejido fino que resulta cómodo en cualquier condición climatológica y temperatura. Práctico y resistente al desgaste, es perfecto para las actividades cotidianas.\n\nTapicería: Gris oscuro\nInterior: Gris oscuro\nTapizado del techo: Blond",
+                "image": "https://esd.volvocars.com/imageweb/e480a6a9-58ea-4c50-ab9c-df3443ef095a.jpg",
+                "videoMp42": null,
+                "featureCode": "NG01",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Inserciones interiores 'Iron Ore'",
+                "description": "Aluminio gris oscuro de grano vertical inspirado en el mineral de hierro que originó la revolución industrial de Suecia.",
+                "image": "https://esd.volvocars.com/imageweb/022585ea-a032-4055-ae1c-66e62fc312b2.jpg",
+                "videoMp42": null,
+                "featureCode": "NC0A",
+                "__typename": "StandardFeature"
+              },
+              {
+                "name": "Manillas de las puertas coordinadas en color",
+                "description": null,
+                "image": null,
+                "videoMp42": null,
+                "featureCode": "TC01",
+                "__typename": "StandardFeature"
+              }
+            ],
+            "imageGalleryCarouselImages": [
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/12/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=4&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/12/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=3&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/exterior-v1/12/01900/R12F/TP02/_/TM02/_/SR02/_/T101/JB0A/T212/CB03/_/_/Default.jpg?market=es&client=vbsgw&Angle=2&bg=fafafa",
+                "type": "shrinkable",
+                "__typename": "CarouselImage"
+              },
+              {
+                "url": "https://cas.volvocars.com/image/dynamic/MY21_2017/225/interior-v2/12/D/R10000/NC0A/DI0A/RU05/_/_/KB02/NP02/CQ02/_/K502/FH02/CB03/_/Default.jpg?market=es&client=vbsgw&bg=fafafa",
+                "type": "pannable",
+                "__typename": "CarouselImage"
+              }
+            ],
+            "standardFeatures": [
+              {
+                "name": "Seguridad",
+                "featureCodes": [
+                  "0028",
+                  "EO02",
+                  "0008",
+                  "RL02",
+                  "FT02",
+                  "RO02",
+                  "0007",
+                  "FR02",
+                  "0074",
+                  "RD02",
+                  "0049",
+                  "KJ03",
+                  "RS02",
+                  "T601",
+                  "EJ02",
+                  "0072",
+                  "LA02",
+                  "0068",
+                  "G402",
+                  "RG08",
+                  "KU02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Confort",
+                "featureCodes": [
+                  "VP02",
+                  "KG02",
+                  "ED01",
+                  "KR02",
+                  "0084",
+                  "RZ02",
+                  "CQ02",
+                  "NV03",
+                  "NR03",
+                  "NI01",
+                  "NJ01",
+                  "0085",
+                  "0083",
+                  "MC02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Audio",
+                "featureCodes": [
+                  "K502",
+                  "0088",
+                  "KK03"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Interior",
+                "featureCodes": [
+                  "KB02",
+                  "PD03",
+                  "RU05",
+                  "NF02",
+                  "N501",
+                  "PN03",
+                  "8H01",
+                  "NG01",
+                  "NY02",
+                  "FH02",
+                  "FJ01",
+                  "NC0A",
+                  "PB02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Exterior",
+                "featureCodes": [
+                  "TJ01",
+                  "JB0A",
+                  "GR03",
+                  "R12F",
+                  "TB05",
+                  "LF01",
+                  "K702",
+                  "TM02",
+                  "TC01",
+                  "TP02",
+                  "SR02",
+                  "G301"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Otros",
+                "featureCodes": [
+                  "RA03",
+                  "G602",
+                  "R603",
+                  "0087",
+                  "G101",
+                  "TS02"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              },
+              {
+                "name": "Equipamiento de serie",
+                "featureCodes": [
+                  "L103",
+                  "TL0A",
+                  "PI03",
+                  "MA02",
+                  "KD12",
+                  "GG0C",
+                  "R412"
+                ],
+                "__typename": "StandardFeaturesGroup"
+              }
+            ],
+            "trimFeaturesChecklist": [
+              {
+                "description": "Llantas de aleación de 18\" de 10 radios Negro corte diamante",
+                "included": true,
+                "featureCode": "R1**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tapicería Textil",
+                "included": true,
+                "featureCode": "NG**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Inserciones interiores 'Iron Ore'",
+                "included": true,
+                "featureCode": "NC**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Tubos de escape dobles integrados",
+                "included": true,
+                "featureCode": "SR**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Asistencia mantenimiento de carril",
+                "included": true,
+                "featureCode": "FT0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Panel instrumentos digital 12,3\"",
+                "included": true,
+                "featureCode": "KB0*",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Chasis Dinámico",
+                "included": true,
+                "featureCode": "RA**",
+                "__typename": "TrimFeaturesChecklistItem"
+              },
+              {
+                "description": "Sistema de sonido Alto Rendimiento con USB y pantalla táctil en color de 9\"",
+                "included": true,
+                "featureCode": "K50*",
+                "__typename": "TrimFeaturesChecklistItem"
+              }
+            ],
+            "enginesFilterData": [
+              {
+                "name": "fuelType",
+                "filters": [
+                  {
+                    "slug": "plug-in-hybrid",
+                    "name": "Híbrido",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "gearboxType",
+                "filters": [
+                  {
+                    "slug": "automático",
+                    "name": "Automático",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              },
+              {
+                "name": "driveType",
+                "filters": [
+                  {
+                    "slug": "awd",
+                    "name": "AWD",
+                    "__typename": "EngineDataType"
+                  }
+                ],
+                "__typename": "EnginesFilterData"
+              }
+            ],
+            "engines": [
+              {
+                "slug": "t6-twin-automática-8-velocidades",
+                "title": "T6 Twin Automática 8 velocidades",
+                "carDrivelineId": "520335264",
+                "co2Emission": "36",
+                "engineCode": "BF",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "186 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "253 + 87",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,5",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              },
+              {
+                "slug": "t8-twin-fwd-automática-8-velocidades",
+                "title": "T8 Twin FWD Automática 8 velocidades",
+                "carDrivelineId": "520335265",
+                "co2Emission": "36 ",
+                "engineCode": "BM",
+                "gearboxCode": "D",
+                "filters": [
+                  "recharge"
+                ],
+                "engineEnergyEfficiency": null,
+                "drivelineSpecifications": [
+                  {
+                    "title": "Motor",
+                    "value": "Híbrido",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "223 + 65",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "Kw",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Potencia",
+                    "value": "303 + 87 ",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": "CV",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo de combustible mixto",
+                    "value": "1,6",
+                    "valueHigh": null,
+                    "valueLow": "1.6",
+                    "unitOfMeasurement": "l/100km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Emisiones CO2 ",
+                    "value": "36 ",
+                    "valueHigh": null,
+                    "valueLow": "36",
+                    "unitOfMeasurement": "g/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Transmisión",
+                    "value": "Automático",
+                    "valueHigh": null,
+                    "valueLow": null,
+                    "unitOfMeasurement": null,
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Consumo eléctrico",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "168",
+                    "unitOfMeasurement": "Wh/km",
+                    "__typename": "DrivelineSpecification"
+                  },
+                  {
+                    "title": "Autonomía eléctrica ",
+                    "value": null,
+                    "valueHigh": null,
+                    "valueLow": "55",
+                    "unitOfMeasurement": "km",
+                    "__typename": "DrivelineSpecification"
+                  }
+                ],
+                "soldOut": false,
+                "soldOutMessage": "",
+                "fuelType": {
+                  "slug": "plug-in-hybrid",
+                  "name": "Híbrido",
+                  "__typename": "EngineDataType"
+                },
+                "isMildHybrid": false,
+                "driveType": {
+                  "slug": "awd",
+                  "name": "AWD",
+                  "__typename": "EngineDataType"
+                },
+                "gearboxType": {
+                  "slug": "automático",
+                  "name": "Automático",
+                  "__typename": "EngineDataType"
+                },
+                "__typename": "Engine"
+              }
+            ],
+            "__typename": "Trim"
+          }
+        ],
+        "__typename": "TrimGroup"
+      }
+    ]
+  }
+}

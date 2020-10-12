@@ -9,23 +9,39 @@
 /* Begin PBXBuildFile section */
 		E81EF67E253438B800DA48BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF67D253438B800DA48BA /* AppDelegate.swift */; };
 		E81EF680253438B800DA48BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF67F253438B800DA48BA /* SceneDelegate.swift */; };
-		E81EF682253438B800DA48BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF681253438B800DA48BA /* ViewController.swift */; };
-		E81EF685253438B800DA48BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E81EF683253438B800DA48BA /* Main.storyboard */; };
 		E81EF687253438B900DA48BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E81EF686253438B900DA48BA /* Assets.xcassets */; };
 		E81EF68A253438B900DA48BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E81EF688253438B900DA48BA /* LaunchScreen.storyboard */; };
 		E81EF694253438ED00DA48BA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E81EF693253438ED00DA48BA /* README.md */; };
+		E81EF69D253439F600DA48BA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF69C253439F600DA48BA /* Car.swift */; };
+		E81EF6A125343EF800DA48BA /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = E81EF6A025343EF800DA48BA /* data.json */; };
+		E81EF6A425343FFA00DA48BA /* TrimGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6A325343FFA00DA48BA /* TrimGroup.swift */; };
+		E81EF6A7253440A300DA48BA /* Plate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6A6253440A300DA48BA /* Plate.swift */; };
+		E81EF6AB2534421600DA48BA /* DomainWrappers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6AA2534421600DA48BA /* DomainWrappers.swift */; };
+		E81EF6AE253449C000DA48BA /* Owner.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6AD253449C000DA48BA /* Owner.swift */; };
+		E81EF6B525344AFC00DA48BA /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6B425344AFC00DA48BA /* BaseViewController.swift */; };
+		E81EF6B925344BD400DA48BA /* LoadingScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6B825344BD400DA48BA /* LoadingScreenViewController.swift */; };
+		E81EF6BE25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6BD25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift */; };
+		E81EF6C42534582200DA48BA /* AnimatedLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6C32534582200DA48BA /* AnimatedLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E81EF67A253438B800DA48BA /* Volvo on Call.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Volvo on Call.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E81EF67D253438B800DA48BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E81EF67F253438B800DA48BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E81EF681253438B800DA48BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E81EF684253438B800DA48BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E81EF686253438B900DA48BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E81EF689253438B900DA48BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E81EF68B253438B900DA48BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E81EF693253438ED00DA48BA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E81EF69C253439F600DA48BA /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		E81EF6A025343EF800DA48BA /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		E81EF6A325343FFA00DA48BA /* TrimGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrimGroup.swift; sourceTree = "<group>"; };
+		E81EF6A6253440A300DA48BA /* Plate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plate.swift; sourceTree = "<group>"; };
+		E81EF6AA2534421600DA48BA /* DomainWrappers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DomainWrappers.swift; sourceTree = "<group>"; };
+		E81EF6AD253449C000DA48BA /* Owner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Owner.swift; sourceTree = "<group>"; };
+		E81EF6B425344AFC00DA48BA /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		E81EF6B825344BD400DA48BA /* LoadingScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingScreenViewController.swift; sourceTree = "<group>"; };
+		E81EF6BD25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartBeatAnimatedImageView.swift; sourceTree = "<group>"; };
+		E81EF6C32534582200DA48BA /* AnimatedLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,13 +77,125 @@
 			children = (
 				E81EF67D253438B800DA48BA /* AppDelegate.swift */,
 				E81EF67F253438B800DA48BA /* SceneDelegate.swift */,
-				E81EF681253438B800DA48BA /* ViewController.swift */,
-				E81EF683253438B800DA48BA /* Main.storyboard */,
-				E81EF686253438B900DA48BA /* Assets.xcassets */,
+				E81EF6BB25344F7400DA48BA /* Reusable View */,
+				E81EF69A253439D300DA48BA /* Domain */,
+				E81EF69B253439DA00DA48BA /* Use Cases */,
+				E81EF6982534399400DA48BA /* Resources */,
+			);
+			path = "Volvo on Call";
+			sourceTree = "<group>";
+		};
+		E81EF6982534399400DA48BA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF69F25343ED800DA48BA /* Data */,
+				E81EF6992534399D00DA48BA /* Assets */,
 				E81EF688253438B900DA48BA /* LaunchScreen.storyboard */,
 				E81EF68B253438B900DA48BA /* Info.plist */,
 			);
-			path = "Volvo on Call";
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E81EF6992534399D00DA48BA /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF686253438B900DA48BA /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		E81EF69A253439D300DA48BA /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6A92534420500DA48BA /* Common */,
+				E81EF69C253439F600DA48BA /* Car.swift */,
+				E81EF6A325343FFA00DA48BA /* TrimGroup.swift */,
+				E81EF6A6253440A300DA48BA /* Plate.swift */,
+				E81EF6AD253449C000DA48BA /* Owner.swift */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		E81EF69B253439DA00DA48BA /* Use Cases */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6B325344AEB00DA48BA /* Base */,
+				E81EF6B225344AD500DA48BA /* Car Detail */,
+				E81EF6B125344ACC00DA48BA /* Cars Gallery */,
+				E81EF6B025344AC300DA48BA /* Loading Screen */,
+			);
+			path = "Use Cases";
+			sourceTree = "<group>";
+		};
+		E81EF69F25343ED800DA48BA /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6A025343EF800DA48BA /* data.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		E81EF6A92534420500DA48BA /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6AA2534421600DA48BA /* DomainWrappers.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		E81EF6B025344AC300DA48BA /* Loading Screen */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6B825344BD400DA48BA /* LoadingScreenViewController.swift */,
+			);
+			path = "Loading Screen";
+			sourceTree = "<group>";
+		};
+		E81EF6B125344ACC00DA48BA /* Cars Gallery */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Cars Gallery";
+			sourceTree = "<group>";
+		};
+		E81EF6B225344AD500DA48BA /* Car Detail */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Car Detail";
+			sourceTree = "<group>";
+		};
+		E81EF6B325344AEB00DA48BA /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6B425344AFC00DA48BA /* BaseViewController.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		E81EF6BB25344F7400DA48BA /* Reusable View */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6C22534580F00DA48BA /* Animated Label */,
+				E81EF6BC25344F7A00DA48BA /* HeartBeat ImageView */,
+			);
+			path = "Reusable View";
+			sourceTree = "<group>";
+		};
+		E81EF6BC25344F7A00DA48BA /* HeartBeat ImageView */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6BD25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift */,
+			);
+			path = "HeartBeat ImageView";
+			sourceTree = "<group>";
+		};
+		E81EF6C22534580F00DA48BA /* Animated Label */ = {
+			isa = PBXGroup;
+			children = (
+				E81EF6C32534582200DA48BA /* AnimatedLabel.swift */,
+			);
+			path = "Animated Label";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -130,7 +258,7 @@
 				E81EF68A253438B900DA48BA /* LaunchScreen.storyboard in Resources */,
 				E81EF687253438B900DA48BA /* Assets.xcassets in Resources */,
 				E81EF694253438ED00DA48BA /* README.md in Resources */,
-				E81EF685253438B800DA48BA /* Main.storyboard in Resources */,
+				E81EF6A125343EF800DA48BA /* data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,23 +269,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E81EF682253438B800DA48BA /* ViewController.swift in Sources */,
 				E81EF67E253438B800DA48BA /* AppDelegate.swift in Sources */,
+				E81EF6AB2534421600DA48BA /* DomainWrappers.swift in Sources */,
+				E81EF6AE253449C000DA48BA /* Owner.swift in Sources */,
 				E81EF680253438B800DA48BA /* SceneDelegate.swift in Sources */,
+				E81EF6BE25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift in Sources */,
+				E81EF6A7253440A300DA48BA /* Plate.swift in Sources */,
+				E81EF6B925344BD400DA48BA /* LoadingScreenViewController.swift in Sources */,
+				E81EF6C42534582200DA48BA /* AnimatedLabel.swift in Sources */,
+				E81EF6B525344AFC00DA48BA /* BaseViewController.swift in Sources */,
+				E81EF69D253439F600DA48BA /* Car.swift in Sources */,
+				E81EF6A425343FFA00DA48BA /* TrimGroup.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E81EF683253438B800DA48BA /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E81EF684253438B800DA48BA /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		E81EF688253438B900DA48BA /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -292,7 +420,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9KPG2WB6U3;
-				INFOPLIST_FILE = "Volvo on Call/Info.plist";
+				INFOPLIST_FILE = "Volvo on Call/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,7 +428,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sfresneda.Volvo-on-Call";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -311,7 +439,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9KPG2WB6U3;
-				INFOPLIST_FILE = "Volvo on Call/Info.plist";
+				INFOPLIST_FILE = "Volvo on Call/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -319,7 +447,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.sfresneda.Volvo-on-Call";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
