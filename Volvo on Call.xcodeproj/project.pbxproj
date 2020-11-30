@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		262CC29F257575240098F8B2 /* CarListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 262CC29E257575240098F8B2 /* CarListViewController.swift */; };
 		E81EF67E253438B800DA48BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF67D253438B800DA48BA /* AppDelegate.swift */; };
 		E81EF680253438B800DA48BA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF67F253438B800DA48BA /* SceneDelegate.swift */; };
 		E81EF687253438B900DA48BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E81EF686253438B900DA48BA /* Assets.xcassets */; };
@@ -20,11 +21,12 @@
 		E81EF6AE253449C000DA48BA /* Owner.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6AD253449C000DA48BA /* Owner.swift */; };
 		E81EF6B525344AFC00DA48BA /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6B425344AFC00DA48BA /* BaseViewController.swift */; };
 		E81EF6B925344BD400DA48BA /* LoadingScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6B825344BD400DA48BA /* LoadingScreenViewController.swift */; };
-		E81EF6BE25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6BD25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift */; };
-		E81EF6C42534582200DA48BA /* AnimatedLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6C32534582200DA48BA /* AnimatedLabel.swift */; };
+		E81EF6BE25344F9B00DA48BA /* AnimatedLogoImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6BD25344F9B00DA48BA /* AnimatedLogoImageView.swift */; };
+		E81EF6C42534582200DA48BA /* SigninDynamicLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81EF6C32534582200DA48BA /* SigninDynamicLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		262CC29E257575240098F8B2 /* CarListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarListViewController.swift; sourceTree = "<group>"; };
 		E81EF67A253438B800DA48BA /* Volvo on Call.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Volvo on Call.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E81EF67D253438B800DA48BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E81EF67F253438B800DA48BA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,8 +42,8 @@
 		E81EF6AD253449C000DA48BA /* Owner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Owner.swift; sourceTree = "<group>"; };
 		E81EF6B425344AFC00DA48BA /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		E81EF6B825344BD400DA48BA /* LoadingScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingScreenViewController.swift; sourceTree = "<group>"; };
-		E81EF6BD25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartBeatAnimatedImageView.swift; sourceTree = "<group>"; };
-		E81EF6C32534582200DA48BA /* AnimatedLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedLabel.swift; sourceTree = "<group>"; };
+		E81EF6BD25344F9B00DA48BA /* AnimatedLogoImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedLogoImageView.swift; sourceTree = "<group>"; };
+		E81EF6C32534582200DA48BA /* SigninDynamicLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninDynamicLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		26C8DD8525756F6C006900DF /* Car List */ = {
+			isa = PBXGroup;
+			children = (
+				262CC29E257575240098F8B2 /* CarListViewController.swift */,
+			);
+			path = "Car List";
+			sourceTree = "<group>";
+		};
 		E81EF671253438B800DA48BA = {
 			isa = PBXGroup;
 			children = (
@@ -120,8 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				E81EF6B325344AEB00DA48BA /* Base */,
-				E81EF6B225344AD500DA48BA /* Car Detail */,
-				E81EF6B125344ACC00DA48BA /* Cars Gallery */,
+				26C8DD8525756F6C006900DF /* Car List */,
 				E81EF6B025344AC300DA48BA /* Loading Screen */,
 			);
 			path = "Use Cases";
@@ -146,23 +155,11 @@
 		E81EF6B025344AC300DA48BA /* Loading Screen */ = {
 			isa = PBXGroup;
 			children = (
+				E81EF6BC25344F7A00DA48BA /* AnimatedLogoImageView */,
+				E81EF6C22534580F00DA48BA /* Signin Dynamic Label */,
 				E81EF6B825344BD400DA48BA /* LoadingScreenViewController.swift */,
 			);
 			path = "Loading Screen";
-			sourceTree = "<group>";
-		};
-		E81EF6B125344ACC00DA48BA /* Cars Gallery */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Cars Gallery";
-			sourceTree = "<group>";
-		};
-		E81EF6B225344AD500DA48BA /* Car Detail */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Car Detail";
 			sourceTree = "<group>";
 		};
 		E81EF6B325344AEB00DA48BA /* Base */ = {
@@ -176,26 +173,24 @@
 		E81EF6BB25344F7400DA48BA /* Reusable View */ = {
 			isa = PBXGroup;
 			children = (
-				E81EF6C22534580F00DA48BA /* Animated Label */,
-				E81EF6BC25344F7A00DA48BA /* HeartBeat ImageView */,
 			);
 			path = "Reusable View";
 			sourceTree = "<group>";
 		};
-		E81EF6BC25344F7A00DA48BA /* HeartBeat ImageView */ = {
+		E81EF6BC25344F7A00DA48BA /* AnimatedLogoImageView */ = {
 			isa = PBXGroup;
 			children = (
-				E81EF6BD25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift */,
+				E81EF6BD25344F9B00DA48BA /* AnimatedLogoImageView.swift */,
 			);
-			path = "HeartBeat ImageView";
+			path = AnimatedLogoImageView;
 			sourceTree = "<group>";
 		};
-		E81EF6C22534580F00DA48BA /* Animated Label */ = {
+		E81EF6C22534580F00DA48BA /* Signin Dynamic Label */ = {
 			isa = PBXGroup;
 			children = (
-				E81EF6C32534582200DA48BA /* AnimatedLabel.swift */,
+				E81EF6C32534582200DA48BA /* SigninDynamicLabel.swift */,
 			);
-			path = "Animated Label";
+			path = "Signin Dynamic Label";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,10 +268,11 @@
 				E81EF6AB2534421600DA48BA /* DomainWrappers.swift in Sources */,
 				E81EF6AE253449C000DA48BA /* Owner.swift in Sources */,
 				E81EF680253438B800DA48BA /* SceneDelegate.swift in Sources */,
-				E81EF6BE25344F9B00DA48BA /* HeartBeatAnimatedImageView.swift in Sources */,
+				E81EF6BE25344F9B00DA48BA /* AnimatedLogoImageView.swift in Sources */,
 				E81EF6A7253440A300DA48BA /* Plate.swift in Sources */,
 				E81EF6B925344BD400DA48BA /* LoadingScreenViewController.swift in Sources */,
-				E81EF6C42534582200DA48BA /* AnimatedLabel.swift in Sources */,
+				262CC29F257575240098F8B2 /* CarListViewController.swift in Sources */,
+				E81EF6C42534582200DA48BA /* SigninDynamicLabel.swift in Sources */,
 				E81EF6B525344AFC00DA48BA /* BaseViewController.swift in Sources */,
 				E81EF69D253439F600DA48BA /* Car.swift in Sources */,
 				E81EF6A425343FFA00DA48BA /* TrimGroup.swift in Sources */,

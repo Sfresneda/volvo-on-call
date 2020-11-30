@@ -14,6 +14,7 @@ class BaseViewController: UIViewController {
         super.init(nibName: nibNameOrNil, bundle: nibBundleOrNil)
         self.commonInit()
     }
+    
     required init?(coder: NSCoder) {
         super.init(coder: coder)
         self.commonInit()

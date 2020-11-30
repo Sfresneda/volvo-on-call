@@ -1,5 +1,5 @@
 //
-//  HeartBeatAnimatedImageView.swift
+//  AnimatedLogoImageView.swift
 //  Volvo on Call
 //
 //  Created by Sergio Fresneda on 10/12/20.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class HeartBeatAnimatedImageView: UIImageView {
+class AnimatedLogoImageView: UIImageView {
     
     // MARK: - Vars
     private let heartBeatTimmingFunction: CAMediaTimingFunction = CAMediaTimingFunction.init(controlPoints: 0.0, 0.5, 0.6, 1.0)
@@ -30,6 +30,7 @@ class HeartBeatAnimatedImageView: UIImageView {
         self.backgroundColor = UIColor.clear
         self.contentMode = .scaleAspectFit
         self.transform = CGAffineTransform.init(scaleX: self.minSizeRatio, y: self.minSizeRatio)
+        self.image = UIImage.init(named: "img_logo")
     }
     
     
@@ -43,7 +44,7 @@ class HeartBeatAnimatedImageView: UIImageView {
     
     // MARK: - Helper
     private func initInAnimation() {
-        UIView.animate(withDuration: 0.2) {
+        UIView.animate(withDuration: 0.5) {
             self.transform = .identity
         } completion: { _ in
             self.heartBeatAnimation()
